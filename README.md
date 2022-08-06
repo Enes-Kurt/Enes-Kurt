@@ -4,12 +4,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on mobile development.
-- 🌱 I’m currently learning C# and Flutter.
+- 🌱 I’m currently learning C# and React Native.
 - 🌱 I’m interested in game development with Unreal Engine and C++.
 - 👯 I’m looking to collaborate on game project and mobile application.
 - 🤔 I’m looking for help with top-down game design.
 - 📫 How to reach me: eneskurt1996@hotmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
