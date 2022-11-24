@@ -3,10 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on mobile development.
-- 🌱 I’m currently learning JavaScript and React Native.
+- 🔭 I’m currently working on full stack develop.
+- 🌱 I’m currently learning JavaScript and C#.
 - 🌱 I’m interested in game development with Unreal Engine and C++.
-- 👯 I’m looking to collaborate on game project and mobile application.
+- 👯 I’m looking to collaborate on game project and full stack develop project.
 - 🤔 I’m looking for help with top-down game design.
 - 📫 How to reach me: eneskurt1996@hotmail.com
 - 😄 Pronouns: He/Him
