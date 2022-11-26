@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/eneskurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneskurt" height="30" width="40" /></a>
 <a href="https://fb.com/enes.kurt.944023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="enes.kurt.944023" height="30" width="40" /></a>
 <a href="https://instagram.com/enesskurtt96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesskurtt96" height="30" width="40" /></a>
-<a href="https://medium.com/@enes-kurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@enes-kurt" height="30" width="40" /></a>
+<a href="https://medium.com/@enes-kurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eneskurt1996" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
