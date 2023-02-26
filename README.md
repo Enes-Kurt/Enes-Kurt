@@ -2,7 +2,7 @@
 
 
 Here are some ideas to get you started:
-I'm looking for a job
+
 - 🔭 I am looking for a job on full stack development.
 - 🌱 I’m currently developing myself on JavaScript and C#.
 - 🌱 I’m interested in game development with Unreal Engine and C++.
