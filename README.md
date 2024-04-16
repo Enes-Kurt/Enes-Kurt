@@ -3,11 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I am looking for a job on full stack development.
-- 🌱 I’m currently developing myself on JavaScript and C#.
+- 🔭 I'm a PhD student at Uludag University.
+- 🌱 I’m currently developing myself on Artificial Intelligence (AI).
 - 🌱 I’m interested in game development with Unreal Engine and C++.
-- 👯 I’m looking to collaborate on game project and full stack development project.
-- 🤔 I’m looking for help with top-down game design.
 - 📫 How to reach me: eneskurt1996@hotmail.com
 - 😄 Pronouns: He/Him
 
